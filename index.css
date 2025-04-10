@@ -1,0 +1,143 @@
+nav ul li a:hover{
+  border-style:double;
+  background-color:azure;
+}
+ 
+    body {
+      animation: gradientAnimation 10s infinite;
+    }
+    button:hover{
+      border-style: inset;
+      background-color: rgb(156, 89, 133);
+      text-shadow:#5892ad;
+      border-radius: 20%;
+      box-shadow: #626060;
+      overflow-x: hidden;
+      transition:0.5s ease
+
+
+    }
+    h1{
+      text-size-adjust:var(#a6a253);
+      font-size:400%;
+      font: weight 900px;
+      font-style:normal;
+      
+    
+    }
+    p{
+      font-size:150%;
+      font-style:normal;
+      font-weight:bolder;
+    
+    }
+    form textarea{
+      background-color: #d7ced0;
+      border-radius:20%;
+      border-width:50%;
+   
+    }
+    form{
+      background-color: #3e3c3c;
+      
+    }
+    form input{
+      background-color: #f9f6f7;
+      border-radius:20%;
+      border-width: 0.5cap;
+    }
+    p1{
+      font-size: xx-large;
+      font-weight:bolder;
+      color:#e7ede7;
+
+
+    }
+    h2{
+      font-size:200%;
+      font-style: oblique;
+      text-shadow: #575252;
+      color:#ebe4e4
+    }
+    button{
+      padding-left: 2%;
+      padding-right: 2%;
+      font-size:medium;
+      font-weight: bolder;
+      font-style:normal;
+      background-color: #ffffff;
+      border-radius: 20%;
+      border-style:double;
+      color:#b9c7dd
+
+    
+    }
+    nav ul li a{
+      box-shadow: #f4eeee;
+      margin-inline-end: 2%;
+      nav-down:auto;
+  
+      
+    }
+    
+nav ul li a:hover{
+    border-style:double;
+    background-color:azure;
+    color:#cbc9c9;}
+    @keyframes gradientAnimation {
+        20% { background: linear-gradient(45deg, #e7789f, #5978b7); }
+        20% { background: linear-gradient(45deg, #60b9b6, #a27de2); }
+        20% { background: linear-gradient(45deg, #c33c40, #5783c0); }
+        20% {  background:linear-gradient(45deg, #cd51a2, #548cb2); }
+        20% { background: linear-gradient(45deg, #dd6a6e, #9259be); }
+      }
+      
+      body {
+        animation: gradientAnimation 10s infinite;
+      }
+      
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f4f4f4;
+        color:#151313
+    }
+    
+    h1 {
+        text-align: center;
+        color:#f6fcfb
+    }
+    
+    form {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    
+    #videoContainer {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+    }
+    
+    #videoContainer video {
+        border: 2px solid #dfdada;
+        border-radius: 5px;
+    }
+    h3{
+      font-size: 150%;
+      text-decoration-line:underline;
+      text-decoration-color: #dedddd;
+      color: #f5f1f1;
+    }
+article form label{
+  font-size:150%;
+  font-weight: bolder;
+  color:white;
+}
+
+body {
+  background-image: url('c:\Users\ASUS\Downloads\image links for ceramics\jornal templates\journal background.jpg');
+  background-size: cover;
+}
