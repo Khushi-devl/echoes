@@ -84,13 +84,7 @@ nav ul li a:hover{
     border-style:double;
     background-color:azure;
     color:#cbc9c9;}
-    @keyframes gradientAnimation {
-        20% { background: linear-gradient(45deg, #e7789f, #5978b7); }
-        20% { background: linear-gradient(45deg, #60b9b6, #a27de2); }
-        20% { background: linear-gradient(45deg, #c33c40, #5783c0); }
-        20% {  background:linear-gradient(45deg, #cd51a2, #548cb2); }
-        20% { background: linear-gradient(45deg, #dd6a6e, #9259be); }
-      }
+  
       
       body {
         animation: gradientAnimation 10s infinite;
